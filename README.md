@@ -11,6 +11,26 @@ iOS-5기 김상민의 개인 레파지토리.
 - `Calculator.playground`: Calculator 과제의 코드가 포함된 Playground 파일
 - `OneWeek.playground`: 내일배움캠프의 Swift 문법 학습에 실습했던 코드가 포함된 Playground 파일
 
+```
+Jamong-Assignments/
+├── Calculator.playground             # Calculator 과제의 코드가 포함된 Playground 파일
+│   ├── Pages/
+│   │   ├── Lv1_Calculator.xcplaygroundpage       # 기본 사칙연산 기능을 구현한 Lv1 과제
+│   │   ├── Lv2_Calculator.xcplaygroundpage       # 나머지 연산과 예외 처리를 추가한 Lv2 과제
+│   │   ├── Lv3_Calculator.xcplaygroundpage       # 연산 기능을 각각의 클래스로 분리한 Lv3 과제
+│   │   └── Lv4_Calculator.xcplaygroundpage       # 추상화와 결합도 감소를 적용한 Lv4 과제
+│   └── Sources
+│
+│
+└── OneWeek.playground              # 내일배움캠프의 Swift 문법 학습에 실습했던 코드가 포함된 Playground 파일
+    ├── Pages/
+    │   ├── 1_2_CamelCase.xcplaygroundpage        # 카멜 케이스 실습 파일
+    │   ├── 1_3_변수_및_상수.xcplaygroundpage      # 변수와 상수에 대해 학습하고 실습한 파일
+    │   ├── 1_4_주석.xcplaygroundpage             # 주석 작성 방법 실습 파일
+    │   └── 1_5_기본_데이터_타입.xcplaygroundpage   # 기본 데이터 타입(Int, String, Bool 등) 실습 파일
+    └── Sources
+```
+
 ---
 
 ## 1. Calculator 과제 
