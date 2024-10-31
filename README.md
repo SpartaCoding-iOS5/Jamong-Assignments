@@ -27,7 +27,12 @@ Jamong-Assignments/
     │   ├── 1_2_CamelCase.xcplaygroundpage        # 카멜 케이스 실습 파일
     │   ├── 1_3_변수_및_상수.xcplaygroundpage      # 변수와 상수에 대해 학습하고 실습한 파일
     │   ├── 1_4_주석.xcplaygroundpage             # 주석 작성 방법 실습 파일
-    │   └── 1_5_기본_데이터_타입.xcplaygroundpage   # 기본 데이터 타입(Int, String, Bool 등) 실습 파일
+    │   ├── 1_5_기본_데이터_타입.xcplaygroundpage   # 기본 데이터 타입(Int, String, Bool 등) 실습 파일
+    │   ├── 1_6_연산자.xcplaygroundpage            # 연산자(대입, 산술, 비교, 논리, 범위 연산자 등) 실습 파일
+    │   ├── 1_7_조건문.xcplaygroundpage            # 조건문(if, guard, switch-case) 실습 파일
+    │   ├── 1_8_반복문.xcplaygroundpage            # 반복문(for, while, break, continue) 실습 파일
+    │   ├── 1_9_함수.xcplaygroundpage              # 함수의 선언, 매개변수, 반환값 실습 파일
+    │   └── 1_10_고급_데이터_타입.xcplaygroundpage  # 고급 데이터 타입(Array, Set, Dictionary) 실습 파일
     └── Sources
 ```
 
